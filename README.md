@@ -27,15 +27,17 @@ https://www.linkedin.com/posts/bartrobertson_provider-azure-devops-terraform-by-
 Christopher Schittko (owns Teraform partnership)
 https://www.linkedin.com/in/xtophs/
 
+Azure DevOps with Terraform 
 https://lnkd.in/giY3mXQ
-
 https://www.terraform.io/docs/providers/azuredevops/index.html
 
 teraform opensource was selected 
 https://learn.hashicorp.com/terraform/getting-started/install
 
+Terraform Registry
 https://registry.terraform.io
 
+Terraform Registry module search
 https://registry.terraform.io/browse/modules
 
 Other choices not considered: 
