@@ -35,6 +35,7 @@ teraform opensource was selected
 https://learn.hashicorp.com/terraform/getting-started/install
 
 https://registry.terraform.io
+
 https://registry.terraform.io/browse/modules
 
 Other choices not considered: 
