@@ -20,3 +20,25 @@ https://lnkd.in/gw3WKZz
 
 We have lots more details and all the sessions from #HashiConf Europe can be streamed for free. Still time to join for day two tomorrow! https://lnkd.in/gU7XDXv
 https://lnkd.in/gDHvk-6
+
+Microsoft announces support for Terraform
+https://www.linkedin.com/posts/bartrobertson_provider-azure-devops-terraform-by-hashicorp-activity-6680016179895046144-MPNS/
+
+Christopher Schittko (owns Teraform partnership)
+https://www.linkedin.com/in/xtophs/
+
+https://lnkd.in/giY3mXQ
+
+https://www.terraform.io/docs/providers/azuredevops/index.html
+
+teraform opensource was selected 
+https://learn.hashicorp.com/terraform/getting-started/install
+
+https://registry.terraform.io
+https://registry.terraform.io/browse/modules
+
+Other choices not considered: 
+
+puppet
+
+chef
